@@ -1,0 +1,9 @@
+{
+    "deploy": {
+      "path": "backend"
+    },
+    "env": {
+      "PORT": "3000"
+    }
+  }
+  
